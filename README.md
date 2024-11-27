@@ -1,5 +1,5 @@
 # maeyama_jcp_2024
-Data depicted in figures of S. Maeyama, et al., under review (2024)
+Data depicted in figures of [S. Maeyama, et al., "Rotating flux-tube model for local gyrokinetic simulations with background flow and magnetic shears", Journal of Computational Physics 522, 113595 (2025). DOI:10.1016/j.jcp.2024.113595](https://doi.org/10.1016/j.jcp.2024.113595)
 
 - fig1/ : 3D visualization of rotating flux-tube simulation domain
 - fig2/ : Schematic picture of various simulation frames, including a supplementary video file.
